@@ -1,0 +1,10 @@
+楚雄州运维项目
+外网地址 ： http://www.cxs.gov.cn/
+内网后台地址： http://172.10.8.1/cxadmin/  cxsgov:cxsgov@123!@
+
+堡垒机地址： 10.20.1.123  root:cxsgov@123
+负载均衡：  10.20.1.124  root:cxsgov@124
+           10.20.1.125  root:cxsgov@125
+           10.20.1.126  root:cxsgov@126
+           
+vpn客户端用户密码：  cxsyw:17DqErjKL9
