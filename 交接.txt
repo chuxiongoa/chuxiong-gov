@@ -8,3 +8,18 @@
            10.20.1.126  root:cxsgov@126
            
 vpn客户端用户密码：  cxsyw:17DqErjKL9
+
+
+虚拟机Centos（自己）
+账号：root
+密码：8691876aa
+
+
+本地mysql
+账号：root
+密码：cxsgov@123
+
+gitlab项目代码仓库
+地址：http://10.10.78.172/gitlab/
+账号：chenchuna
+密码：8445566aa
